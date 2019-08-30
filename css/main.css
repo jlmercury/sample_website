@@ -1,3 +1,4 @@
+/* global */
 .nav-menu {
   text-align: right;
 }
@@ -5,4 +6,48 @@
   text-decoration: none;
   color: #00f;
   margin-left: 10px;
+}
+.nav-items-leftend {
+  margin-left: none;
+}
+
+/* index */
+.image-link {
+  text-decoration: none;
+}
+
+/* Tags */
+.table-data {
+  padding: 10px;
+}
+
+/* Moby Dick */
+.moby_dick-header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.whale-image {
+  display: block;
+  margin: 0 auto;
+}
+.book-report {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.book-image {
+  height: 200px;
+  float: left;
+  margin: 0 40px 0;
+}
+.quote {
+  font-style: italic;
+  font-size: 20px;
+}
+.quote-beginning {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ccc;
 }
